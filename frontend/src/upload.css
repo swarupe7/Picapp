@@ -1,0 +1,47 @@
+/* App.css */
+
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #555;
+  }
+  
+  /* input[type="file"] {
+    display: none;
+  } */
+  
+  /* label {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 15px;
+    background-color: #3498db;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+  } */
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* button:hover {
+    background-color: #27ae60;
+  }
+   */
+  .logout-btn{
+    background-color: red;
+    margin-left: 85%;
+  }
