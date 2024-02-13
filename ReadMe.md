@@ -75,7 +75,6 @@ The following API endpoints are available:
 
 
 
-![Screenshot 2024-02-13 053913](https://github.com/swarupe7/Picapp/assets/85427735/42b49214-0e83-481d-8967-ff297be0e22b)
 
 
 
